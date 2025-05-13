@@ -1,4 +1,3 @@
-# generate_web.py
 
 def call_qwen_model(prompt: str) -> str:
 
